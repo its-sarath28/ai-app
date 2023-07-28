@@ -28,6 +28,7 @@ Node version 18.x.x
 
 ## Setup .env file
 
+```
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 
 CLERK_SECRET_KEY=
@@ -51,6 +52,7 @@ STRIPE_API_KEY=
 STRIPE_WEBHOOK_SECRET=
 
 NEXT_PUBLIC_APP_URL=http://localhost:3000
+```
 
 ## Setup Prisma
 Add MySQL Database (PlanetScale is used here)
