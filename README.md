@@ -26,6 +26,7 @@ Node version 18.x.x
 
 ## Setup .env file
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+
 CLERK_SECRET_KEY=
 
 NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
